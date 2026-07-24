@@ -4,7 +4,7 @@
 
 I build production backend systems with **Node.js / NestJS / TypeScript / PostgreSQL**, and I care about the unglamorous things that make software reliable: query performance, atomic transactions, queues, and clean API design.
 
-📫 hwei625@gmail.com · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+📫 hwei625@gmail.com · [LinkedIn](https://www.linkedin.com/in/david-hong-wei)
 
 ---
 
